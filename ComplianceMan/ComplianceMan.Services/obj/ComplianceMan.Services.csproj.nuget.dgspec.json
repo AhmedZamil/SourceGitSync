@@ -1,0 +1,213 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\MILBIX\\Github_AhmedZamil\\ComplianceMan\\ComplianceMan\\ComplianceMan.Services\\ComplianceMan.Services.csproj": {}
+  },
+  "projects": {
+    "E:\\MILBIX\\Github_AhmedZamil\\ComplianceMan\\ComplianceMan\\ComplianceMan.Common\\ComplianceMan.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\MILBIX\\Github_AhmedZamil\\ComplianceMan\\ComplianceMan\\ComplianceMan.Common\\ComplianceMan.Common.csproj",
+        "projectName": "ComplianceMan.Common",
+        "projectPath": "E:\\MILBIX\\Github_AhmedZamil\\ComplianceMan\\ComplianceMan\\ComplianceMan.Common\\ComplianceMan.Common.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "E:\\MILBIX\\Github_AhmedZamil\\ComplianceMan\\ComplianceMan\\ComplianceMan.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\MILBIX\\Github_AhmedZamil\\ComplianceMan\\ComplianceMan\\ComplianceMan.Data\\ComplianceMan.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\MILBIX\\Github_AhmedZamil\\ComplianceMan\\ComplianceMan\\ComplianceMan.Data\\ComplianceMan.Data.csproj",
+        "projectName": "ComplianceMan.Data",
+        "projectPath": "E:\\MILBIX\\Github_AhmedZamil\\ComplianceMan\\ComplianceMan\\ComplianceMan.Data\\ComplianceMan.Data.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "E:\\MILBIX\\Github_AhmedZamil\\ComplianceMan\\ComplianceMan\\ComplianceMan.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\MILBIX\\Github_AhmedZamil\\ComplianceMan\\ComplianceMan\\ComplianceMan.Services\\ComplianceMan.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\MILBIX\\Github_AhmedZamil\\ComplianceMan\\ComplianceMan\\ComplianceMan.Services\\ComplianceMan.Services.csproj",
+        "projectName": "ComplianceMan.Services",
+        "projectPath": "E:\\MILBIX\\Github_AhmedZamil\\ComplianceMan\\ComplianceMan\\ComplianceMan.Services\\ComplianceMan.Services.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "E:\\MILBIX\\Github_AhmedZamil\\ComplianceMan\\ComplianceMan\\ComplianceMan.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\MILBIX\\Github_AhmedZamil\\ComplianceMan\\ComplianceMan\\ComplianceMan.Common\\ComplianceMan.Common.csproj": {
+                "projectPath": "E:\\MILBIX\\Github_AhmedZamil\\ComplianceMan\\ComplianceMan\\ComplianceMan.Common\\ComplianceMan.Common.csproj"
+              },
+              "E:\\MILBIX\\Github_AhmedZamil\\ComplianceMan\\ComplianceMan\\ComplianceMan.Data\\ComplianceMan.Data.csproj": {
+                "projectPath": "E:\\MILBIX\\Github_AhmedZamil\\ComplianceMan\\ComplianceMan\\ComplianceMan.Data\\ComplianceMan.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.AzureAD.UI": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authorization": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Identity.Web": {
+              "target": "Package",
+              "version": "[2.12.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

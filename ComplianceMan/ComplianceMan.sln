@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComplianceMan", "ComplianceMan\ComplianceMan.csproj", "{3D734924-D93B-4788-8A0A-B7A6EC08928C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComplianceMan.Common", "ComplianceMan.Common\ComplianceMan.Common.csproj", "{7C70A14B-47EA-4D31-B968-526AF6F8FCB7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComplianceMan.Services", "ComplianceMan.Services\ComplianceMan.Services.csproj", "{F928597B-6A08-47CE-BDA5-3AF8F884F270}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComplianceMan.FileStorage", "ComplianceMan.FileStorage\ComplianceMan.FileStorage.csproj", "{BBBA5969-6677-413E-B52C-3F49FC7AD8C1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComplianceMan.Data", "ComplianceMan.Data\ComplianceMan.Data.csproj", "{B803E066-6316-4C71-BDC7-FABBFD61A54A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Milbix.OAuthConnector.Core", "ComplianceMan.OAuthConnector.Core\Milbix.OAuthConnector.Core.csproj", "{2BE5909C-0750-4E53-818F-E6CA0D554BA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D734924-D93B-4788-8A0A-B7A6EC08928C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D734924-D93B-4788-8A0A-B7A6EC08928C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D734924-D93B-4788-8A0A-B7A6EC08928C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D734924-D93B-4788-8A0A-B7A6EC08928C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C70A14B-47EA-4D31-B968-526AF6F8FCB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C70A14B-47EA-4D31-B968-526AF6F8FCB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C70A14B-47EA-4D31-B968-526AF6F8FCB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C70A14B-47EA-4D31-B968-526AF6F8FCB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F928597B-6A08-47CE-BDA5-3AF8F884F270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F928597B-6A08-47CE-BDA5-3AF8F884F270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F928597B-6A08-47CE-BDA5-3AF8F884F270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F928597B-6A08-47CE-BDA5-3AF8F884F270}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBBA5969-6677-413E-B52C-3F49FC7AD8C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBBA5969-6677-413E-B52C-3F49FC7AD8C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBBA5969-6677-413E-B52C-3F49FC7AD8C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBBA5969-6677-413E-B52C-3F49FC7AD8C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B803E066-6316-4C71-BDC7-FABBFD61A54A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B803E066-6316-4C71-BDC7-FABBFD61A54A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B803E066-6316-4C71-BDC7-FABBFD61A54A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B803E066-6316-4C71-BDC7-FABBFD61A54A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BE5909C-0750-4E53-818F-E6CA0D554BA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BE5909C-0750-4E53-818F-E6CA0D554BA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BE5909C-0750-4E53-818F-E6CA0D554BA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BE5909C-0750-4E53-818F-E6CA0D554BA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0C47A10-C982-462B-8C41-F36745724F62}
+	EndGlobalSection
+EndGlobal
